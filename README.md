@@ -2,9 +2,10 @@
 
 简洁的中文 JavaScript 正则表达式测试工具。无需安装依赖，可直接打开 `index.html`，也可通过 GitHub Pages 发布。
 
-网页地址（Pages 部署完成后生效）：https://cj8631.github.io/regex-tester/
+在线使用：https://cj8631.github.io/regex-tester/
 
 - 实时匹配高亮、匹配位置与捕获组详情。
+- 暖白与墨绿配色，支持明暗主题切换和手机布局。
 - 随输入更新的中文语法注释。
 - 替换预览、常用示例和语法速查。
 - 正则在 Web Worker 中执行，超过 2 秒自动停止。
